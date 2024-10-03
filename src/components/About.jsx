@@ -1,4 +1,4 @@
-import aboutImg from '../assets/smiling.jpg'
+import aboutImg from '../assets/smiling_prof.jpg'
 import { ABOUT_TEXT } from '../constants'
 import { motion } from 'framer-motion'
 
