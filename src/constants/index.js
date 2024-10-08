@@ -3,7 +3,7 @@ import project2 from '../assets/projects/car_on_sale.jpg'
 import project3 from '../assets/projects/maize_stack.jpg'
 import project4 from '../assets/projects/amazon_book.jpg'
 
-export const HERO_CONTENT = `I’m a versatile professional with a passion for teaching, business, and creativity. As a tutor specializing in South African Physical Science, I enjoy guiding students toward academic success. I also work as an agent in both car sales and grain distribution, especially to Zimbabwe. In addition, I build personalized portfolio websites. My creative side shines through my poetry, with two books available on Amazon: Have you ever wondered what they do, my boy? and Chiselled Thoughts. Let’s connect and explore how I can help you achieve your goals!.`
+export const HERO_CONTENT = `I’m a versatile professional with a passion for teaching, business, and creativity. I believe that iron can sharpen iron and the sharper we are at executing our tasks, the further our reach extends. Let’s connect and explore how I can help you achieve your goals!.`
 
 export const ABOUT_TEXT = `I am a multi-faceted professional passionate about continuous personal development and sharing knowledge. As a South African Physical Science tutor, I enjoy helping students excel, while my work as an agent in car sales and grain distribution, particularly to Zimbabwe, allows me to connect people with essential products. I also create custom portfolio websites to help individuals showcase their unique talents. My creative journey as a poet has led to two published works, *Have you ever wondered what they do, my boy?* and *Chiselled Thoughts*, available on Amazon. I believe life is a challenge best shared with those who can uplift one another, bringing fulfillment to all involved..`
 
